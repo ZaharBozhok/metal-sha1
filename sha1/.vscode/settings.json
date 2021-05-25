@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "locale": "c",
+        "string": "c",
+        "sha1.h": "c"
+    }
+}
